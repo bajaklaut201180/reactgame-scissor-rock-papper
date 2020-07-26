@@ -1,0 +1,3 @@
+export const PLAYER_ONE_POINT = 'PLAYER_ONE_POINT';
+export const PLAYER_TWO_POINT = 'PLAYER_TWO_POINT';
+export const RESET_GAME = 'RESET_GAME';
